@@ -1,5 +1,5 @@
 export default {
-    siteTitle: "The Rekall Blog",
+    siteTitle: "Blog",
     siteSubTitle: "",
     copyright: "Rekall",
     showAuthorsOnHomePage: false,

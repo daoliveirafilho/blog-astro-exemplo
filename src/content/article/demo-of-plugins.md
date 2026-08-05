@@ -6,8 +6,8 @@ author: "Cypher"
 category: "artigo"
 tags: ["artigo", "componentes", "embed"]
 featured: false
-thumb: "https://6a67ed0b2a4b54c07b2a087e.imgix.net/sandbox/1e4854c7-89dc-11f1-8bd5-d85ed3ff5544.webp?mark=https:%2F%2Frekall.log.br%2Fassets%2Ffavicons%2Ffavicon.ico&mark-align=left"
-large: "https://6a67ed0b2a4b54c07b2a087e.imgix.net/sandbox/1e4854c7-89dc-11f1-8bd5-d85ed3ff5544.webp?mark=https:%2F%2Frekall.log.br%2Fassets%2Ffavicons%2Ffavicon.ico&mark-align=left"
+thumb: "https://6a67ed0b2a4b54c07b2a087e.imgix.net/sandbox/4.jpg"
+large: "https://6a67ed0b2a4b54c07b2a087e.imgix.net/sandbox/4.jpg"
 ---
 
 ### Exemplo de Texto Formatado
